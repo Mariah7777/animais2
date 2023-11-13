@@ -1,0 +1,61 @@
+body{background:rgb(255, 255, 255);
+}
+.animais{
+    width: 419px;
+    height: 442px;
+    border-radius: 12px;
+    margin-top: 12px;
+ }
+ .cachorro2{
+     width: 419px;
+    height: 442px;
+    border-radius: 12px;
+    margin-top: 20px;
+    gap: 200px;
+ }
+ img{
+     height: 136px;
+     width: 247px;
+    
+ }
+ .voleibol{
+     display: flex;
+     justify-content: space-around; 
+     margin-left: 85px;
+     margin-right: 85px;
+     
+ }
+ .card{
+     width: 551px;
+     height: 725px;
+     text-align: center;
+     background: #000000;
+     border-radius: 12px;
+     margin-left: 10px;
+     color: rgb(255, 251, 251) ;
+     padding: 20px;
+
+ }
+ .texto2{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 60px;
+    font-size: 20px;
+ }
+ 
+ button{
+
+    width: 150px;
+    font-size: 17px;
+    border-radius: 20px;
+ }
+
+ .animal{
+     text-align: center;
+     margin-top: 20px;
+ }
+
+
+ 
